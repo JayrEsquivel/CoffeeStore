@@ -1,0 +1,23 @@
+.Title{
+    /* margin-bottom: 2%; */
+    background-color:black;
+ }
+
+ .Discount{
+     font-size: 30px;
+     text-align: center;
+     background-color: rgb(17, 17, 146);
+    color: white;
+    margin-bottom: 50px;
+     
+ }
+
+.footer {
+    margin-top: 10px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+ }
